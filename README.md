@@ -47,3 +47,5 @@ npm init 명령어로 만들어진 package.json파일이 있는데 package.json�
 npm run dev로 실행하기
 
 tsconfig.json안에 "compilerOptions"에 해당하는 객체안에 "esModuleInterop": true 이거 넣어주기
+
+참고한 곳(https://github.com/rhkdgns95/react-app)
